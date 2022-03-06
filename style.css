@@ -1,0 +1,82 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Neonderthaw&family=Rubik+Beastly&display=swap');
+
+
+@font-face{
+    src: url(./Marvel-Regular.ttf);
+    font-family: yangifont;
+}
+
+*{
+    margin: 0;
+}
+
+body{
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ed1d24;
+}
+
+.text{
+    font-family: yangifont;
+    font-size: 300px;
+    color: #fff;
+} */
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+
+@font-face{
+    src: url(./FontsFree-Net-ProductSans-Regular.ttf);
+    font-family: yangifont;
+}
+
+.text{
+    font-size: 200px;
+    font-family: yangifont;
+    color: #4086f4;
+    font-weight: 800;
+}
+
+.text1{
+    font-size: 200px;
+    font-family: yangifont;
+    color: #4086f4;
+    font-weight: 800;
+}
+
+.text2{
+    font-size: 200px;
+    font-family: yangifont;
+    color: #4086f4;
+    font-weight: 800;
+}
+
+.text3{
+    font-size: 200px;
+    font-family: yangifont;
+    color: #4086f4;
+    font-weight:800;
+}
+
+.text4{
+    font-size: 200px;
+    font-family: yangifont;
+    color: #4086f4;
+    font-weight: 800;
+}
+
+.text5{
+    font-size: 200px;
+    font-family: yangifont;
+    color: #4086f4;
+    font-weight: 800;
+}
